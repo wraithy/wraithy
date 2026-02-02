@@ -1,0 +1,26 @@
+<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .cls {
+          font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          font-size: 14px;
+          white-space: pre;
+          color: #000; 
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .cls {
+            color: #fff;
+          }
+        }
+      </style>
+      <div class="cls"><![CDATA[    ____        __        __                            
+   / __ \____ _/ /_____ _/ /_  ____ _________  _____    
+  / / / / __ `/ __/ __ `/ __ \/ __ `/ ___/ _ \/ ___/    
+ / /_/ / /_/ / /_/ /_/ / /_/ / /_/ (__  )  __(__  ) _ _ 
+/_____/\__,_/\__/\__,_/_.___/\__,_/____/\___/____(_|_|_)
+                                                        ]]></div>
+    </div>
+  </foreignObject>
+</svg>
