@@ -1,0 +1,32 @@
+<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .wrapper {
+          display: flex;
+          justify-content: center;
+          height: 150px;
+        }
+        
+        .cls {
+          font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+          font-size: 14px;
+          white-space: pre;
+          color: #000; 
+        }
+
+        @media (prefers-color-scheme: dark) {
+          .container {
+            color: #fff;
+          }
+        }
+      </style>
+      <div class="wrapper cls">                                   __                           
+  _______  _______________  ____  / /_   _________  ____  ____ _
+ / ___/ / / / ___/ ___/ _ \/ __ \/ __/  / ___/ __ \/ __ \/ __ `/
+/ /__/ /_/ / /  / /  /  __/ / / / /_   (__  ) /_/ / / / / /_/ / 
+\___/\__,_/_/  /_/   \___/_/ /_/\__/  /____/\____/_/ /_/\__, /  
+                                                       /____/   </div>
+    </div>
+  </foreignObject>
+</svg>
