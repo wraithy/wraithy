@@ -47,6 +47,9 @@
 <div align="left">
     <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/devops.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
+        <img src="https://img.shields.io/badge/WINDOWS-%23DC143C.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9IiNmZmYiIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiPjxwYXRoIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=" />
+        <img src="https://img.shields.io/badge/MAC-%23DC143C.svg?style=for-the-badge&logo=apple&logoColor=white" />
+        <img src="https://img.shields.io/badge/LINUX-%23DC143C.svg?style=for-the-badge&logo=linux&logoColor=white" />
         <img src="https://img.shields.io/badge/GIT-%23DC143C.svg?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GITHUB-%23DC143C.svg?style=for-the-badge&logo=github&logoColor=white" />
         <img src="https://img.shields.io/badge/DOCKER-%23DC143C.svg?style=for-the-badge&logo=docker&logoColor=white" />
