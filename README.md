@@ -1,9 +1,9 @@
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/hi.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/hi.svg" width="670" />
 </div><br /><br />
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/software.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/software.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
         <img src="https://img.shields.io/badge/VS CODE-%23DC143C.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJmaWxsOiNmZmYiIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48cGF0aCBkPSJNOTYuNCAxMC42IDc1LjguNmMtMi4xLTEtNC41LS44LTYuNC42LS4zLjItLjUuNC0uNy42TDI5LjMgMzggMTIuMSAyNC45Yy0xLjYtMS4yLTMuOC0xLjEtNS4zLjJsLTUuNSA1Yy0xLjggMS43LTEuOCA0LjUgMCA2LjJMMTYuMiA1MCAxLjMgNjMuN2MtMS44IDEuNy0xLjggNC41IDAgNi4ybDUuNSA1YzEuNSAxLjQgMy43IDEuNSA1LjMuMkwyOS4zIDYybDM5LjQgMzYuMWMuNi42IDEuMyAxLjEgMi4xIDEuNCAxLjYuNiAzLjQuNiA1LS4ybDIwLjYtMTBjMi4yLTEgMy41LTMuMiAzLjUtNS43VjE2LjJjMC0yLjQtMS40LTQuNi0zLjUtNS43Wk03NSA3Mi44IDQ1LjEgNTAgNzUgMjcuMnY0NS42WiIvPjwvc3ZnPg==" />
         <img src="https://img.shields.io/badge/PHOTOSHOP-%23DC143C.svg?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHN0eWxlPSJmaWxsOiNmZmYiIHZpZXdCb3g9IjAgMCAyNDAgMjM0Ij48cGF0aCBkPSJNMTA1LjUgODYuOWMxLjYgMi43IDIuNCA1LjggMi4zIDguOSAwIDQuNC0xIDcuOC0zLjEgMTAuMy0yLjIgMi41LTUgNC40LTguMiA1LjMtMy43IDEuMi03LjYgMS44LTExLjUgMS44aC01LjNjLTEuMiAwLTIuNS0uMS0zLjktLjJWNzkuNGMuNy0uMSAyLjEtLjIgNC4xLS4xaDYuOGM0LjEtLjEgOC4xLjUgMTEuOCAyIDIuOSAxLjEgNS4zIDMuMSA3IDUuN1oiLz48cGF0aCBkPSJNMTk3LjUgMGgtMTU1QzE5IDAgMCAxOSAwIDQyLjV2MTQ5QzAgMjE1IDE5IDIzNCA0Mi41IDIzNGgxNTVjMjMuNSAwIDQyLjUtMTkgNDIuNS00Mi41di0xNDlDMjQwIDE5IDIyMSAwIDE5Ny41IDBabS03My45IDExNi41Yy00IDUuNi05LjYgOS44LTE2LjEgMTIuMi02LjggMi41LTE0LjMgMy40LTIyLjUgMy40aC05LjN2MzIuMWMwIC43LS40IDEuMy0xLjEgMS40SDU1LjJjLS44IDAtMS4yLS40LTEuMi0xLjNWNjEuMmMwLS43LjMtMS4xIDEtMS4xaDUuNmMyLjQgMCA0LjkgMCA3LjYtLjIgMi43IDAgNS42IDAgOC43LS4ySDg2YzguMiAwIDE1IDEgMjAuNiAzLjEgNSAxLjcgOS42IDQuNSAxMy40IDguMiAzLjIgMy4yIDUuNyA3LjEgNy4zIDExLjQgMS41IDQuMiAyLjMgOC41IDIuMyAxMyAwIDguNi0yIDE1LjctNiAyMS4zWm03MC45IDM4LjljLTIuOCA0LTYuNyA3LjEtMTEuMiA4LjktNC45IDIuMS0xMC45IDMuMi0xOC4xIDMuMnMtOS4xLS40LTEzLjYtMS4zYy0zLjUtLjYtNy0xLjctMTAuMi0zLjItLjctLjQtMS4yLTEuMS0xLjEtMS45di0xNy40YzAtLjMuMS0uNy40LS45cy42IDAgLjkuMWMzLjkgMi4zIDggMy45IDEyLjQgNC45IDMuOCAxIDcuOCAxLjUgMTEuOCAxLjVzNi41LS41IDguMy0xLjRjMS42LS43IDIuNy0yLjQgMi43LTQuMnMtLjgtMi43LTIuNC00Yy0xLjYtMS4zLTQuOS0yLjgtOS44LTQuNy01LjEtMS44LTkuOC00LjItMTQuMi03LjItMy4xLTIuMi01LjctNS4xLTcuNi04LjUtMS42LTMuMi0yLjQtNi43LTIuMy0xMC4yIDAtNC4zIDEuMi04LjQgMy40LTEyLjEgMi41LTQgNi4yLTcuMiAxMC41LTkuMiA0LjctMi40IDEwLjYtMy41IDE3LjctMy41czguMy4zIDEyLjQuOWMzIC40IDUuOSAxLjIgOC42IDIuMy40IDAgLjguNSAxIC45LjEuNC4yLjguMiAxLjJ2MTYuM2MwIC40LS4yLjgtLjUgMS0uOS4yLTEuNC4yLTEuOCAwLTMtMS42LTYuMi0yLjctOS42LTMuNC0zLjctLjgtNy40LTEuMy0xMS4yLTEuMy0yLS4xLTQuMS4yLTYgLjctMS4zLjMtMi40IDEtMy4xIDItLjUuOC0uOCAxLjgtLjggMi43cy40IDEuOCAxIDIuNmMuOSAxLjEgMi4xIDIgMy40IDIuNyAyLjMgMS4yIDQuNyAyLjMgNy4xIDMuMyA1LjQgMS44IDEwLjYgNC4zIDE1LjQgNy4zIDMuMyAyLjEgNiA0LjkgNy45IDguMyAxLjYgMy4yIDIuNCA2LjcgMi4zIDEwLjMgMCA0LjctMS4zIDkuNC0zLjkgMTMuM1oiLz48L3N2Zz4=" />
@@ -13,7 +13,7 @@
 </div><br /><br />
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/frontend.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/frontend.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
         <img src="https://img.shields.io/badge/HTML5-%23DC143C.svg?style=for-the-badge&logo=html5&logoColor=white" />
         <img src="https://img.shields.io/badge/CSS-%23DC143C.svg?style=for-the-badge&logo=css&logoColor=white" />
@@ -26,7 +26,7 @@
 </div><br /><br />
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/backend.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/backend.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
         <img src="https://img.shields.io/badge/NODEJS-%23DC143C.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" />
         <img src="https://img.shields.io/badge/EXPRESS-%23DC143C.svg?style=for-the-badge&logo=express&logoColor=white" />
@@ -35,7 +35,7 @@
 </div><br /><br />
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/databases.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/databases.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
         <img src="https://img.shields.io/badge/MYSQL-%23DC143C.svg?style=for-the-badge&logo=mysql&logoColor=white" />
         <img src="https://img.shields.io/badge/MARIADB-%23DC143C.svg?style=for-the-badge&logo=mariadb&logoColor=white" />
@@ -45,7 +45,7 @@
 </div><br /><br />
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/devops.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/devops.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
         <img src="https://img.shields.io/badge/GIT-%23DC143C.svg?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/GITHUB-%23DC143C.svg?style=for-the-badge&logo=github&logoColor=white" />
@@ -61,7 +61,7 @@
 </div><br /><br />
 
 <div align="left">
-    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/song.svg" width="600" />
+    <img src="https://raw.githubusercontent.com/wraithy/wraithy/main/titles/song.svg" width="670" />
     <div style="display: flex; justify-content: flex-start; gap: 4px;">
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=21b3l7wxmd2tr755pwavqmquq&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=dc143c&bar_color_cover=false" />
     </div>

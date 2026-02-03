@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 120" width="600" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 670 120" width="670" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
       <style>
@@ -15,12 +15,12 @@
           }
         }
       </style>
-      <div class="cls"><![CDATA[    ____             __                  __   
-   / __ )____ ______/ /_____  ____  ____/ /   
-  / __  / __ `/ ___/ //_/ _ \/ __ \/ __  /    
- / /_/ / /_/ / /__/ ,< /  __/ / / / /_/ / _ _ 
-/_____/\__,_/\___/_/|_|\___/_/ /_/\__,_(_|_|_)
-                                              ]]></div>
+      <div class="cls"><![CDATA[    ____            ____                
+   / __ \___ _   __/ __ \____  _____    
+  / / / / _ \ | / / / / / __ \/ ___/    
+ / /_/ /  __/ |/ / /_/ / /_/ (__  ) _ _ 
+/_____/\___/|___/\____/ .___/____(_|_|_)
+                     /_/                ]]></div>
     </div>
   </foreignObject>
 </svg>
